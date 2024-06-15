@@ -8,6 +8,7 @@ Content Overview
 The notebook includes the following sections:
 
 Introduction and Motivation: Explanation of the purpose of the analysis and its importance.</n>
+
 Setup and Requirements: Instructions on installing necessary Python libraries.
 Load Data: Loading the assessment data from the provided Excel file.
 Data Cleaning and Preparation: Steps to clean and prepare the data for analysis.
