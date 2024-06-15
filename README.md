@@ -9,10 +9,16 @@ The notebook includes the following sections:
 
 Introduction and Motivation: Explanation of the purpose of the analysis and its importance.</n>
 
-Setup and Requirements: Instructions on installing necessary Python libraries.
-Load Data: Loading the assessment data from the provided Excel file.
-Data Cleaning and Preparation: Steps to clean and prepare the data for analysis.
-Data Analysis: Detailed analysis to identify trends and insights.
-Visualization: Visualization of the findings using various plots.
-Conclusion: Summary of findings and recommendations for teachers.
-Note: All the data and values do not reflect actual performance from these schools.
+Setup and Requirements: Instructions on installing necessary Python libraries.</n>
+
+Load Data: Loading the assessment data from the provided Excel file.</n>
+
+Data Cleaning and Preparation: Steps to clean and prepare the data for analysis.</n>
+
+Data Analysis: Detailed analysis to identify trends and insights.</n>
+
+Visualization: Visualization of the findings using various plots.</n>
+
+Conclusion: Summary of findings and recommendations for teachers.</n>
+
+Note: All the data and values do not reflect actual performance from these schools.</n>
