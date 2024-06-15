@@ -7,7 +7,8 @@ The following analysis is a reflection of my own journey of becoming a Data Anal
 Content Overview
 The notebook includes the following sections:
 
-Introduction and Motivation: Explanation of the purpose of the analysis and its importance.</n>
+<ul>
+  Introduction and Motivation: Explanation of the purpose of the analysis and its importance.</n>
 
 Setup and Requirements: Instructions on installing necessary Python libraries.</n>
 
@@ -22,3 +23,5 @@ Visualization: Visualization of the findings using various plots.</n>
 Conclusion: Summary of findings and recommendations for teachers.</n>
 
 Note: All the data and values do not reflect actual performance from these schools.</n>
+  </ul>
+
